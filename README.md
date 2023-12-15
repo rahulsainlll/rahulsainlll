@@ -9,3 +9,17 @@ More About Me
 
 When I'm not working, you might find me scuba diving :diving_mask: with my messy hair in the ocean around islands of Taiwan. :desert_island:
 I'm a fan of different cultures and beautiful nature who used to travel a lot. Now that traveling is not a good idea because of covid-19, why not dive into the ocean and enjoy the amazing marine life? 🤙🤙🤙
+
+📚 What I know and use
+
+React, React Hooks
+HTML / CSS / JavaScript
+Vue.js / Vuex / Vue Router
+Sass
+Bootstrap / Element UI / Tailwind CSS
+Node.js
+Express
+MySQL and Sequelize
+MongoDB and Mongoose
+Git
+Postman
