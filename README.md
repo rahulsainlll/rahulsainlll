@@ -8,11 +8,13 @@ With curiosity as my motivation, I have a passion for learning new skills aim to
 ### :books: What I know and use
 ---
 - React
+- Node.js
+- Express.js
+- MongoDB 
 - HTML / CSS / JavaScript
 - Vue.js 
 - Tailwind CSS
 - MySQL 
-- MongoDB 
 - Git
 
 ### 🌱 I’m currently learning ...
