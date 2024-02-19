@@ -12,7 +12,7 @@ With curiosity as my motivation, I have a passion for learning new skills aim to
 - Express.js
 - MongoDB 
 - HTML / CSS / JavaScript
-- Vue.js 
+- PHP
 - Tailwind CSS
 - MySQL 
 - Git
