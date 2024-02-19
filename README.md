@@ -1,34 +1,25 @@
+## Hi there! 👋
 
-Hello there 👋,
+I'm Rahul, a self-taught web developer with a passion for creating useful and beautiful websites. I love learning new skills and technologies, and I'm always looking for opportunities to grow and improve.
 
-I'm a self-taught web developer. </br>
-With curiosity as my motivation, I have a passion for learning new skills aim to create useful and lovely websites.
+### 🧠 What I Know and Use
 
+- **Frontend**: React, HTML, CSS, JavaScript, Tailwind CSS
+- **Backend**: Node.js, Express.js, MongoDB, PHP, MySQL
+- **Version Control**: Git
+- **Other Tools**: VSCode, GitHub
 
-### :books: What I know and use
----
-- React
-- Node.js
-- Express.js
-- MongoDB 
-- HTML / CSS / JavaScript
-- PHP
-- Tailwind CSS
-- MySQL 
-- Git
+### 📚 What I'm Learning
 
-### 🌱 I’m currently learning ...
----
-- React
-- To dig deeper into what I know and use
+I'm currently focused on deepening my knowledge of React and exploring advanced topics in web development.
 
-### 👀 When I'm not working, I might be...
----
-:earth_americas: Traveling </br>
-:ocean: Cricket </br>
-:tada: Doing any interesting things
+### 🌍 When I'm Not Coding
 
-<!---
-tsengm6h6/tsengm6h6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Traveling**: Exploring new places and cultures.
+- **Cricket**: Enjoying the thrill of the game.
+- **Personal Projects**: Working on interesting side projects.
+
+### 📫 Get in Touch
+
+- Twitter: https://twitter.com/Rahulsainlll
+- Email: mr.rahulsain@icloud.com
