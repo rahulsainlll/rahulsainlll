@@ -6,7 +6,7 @@ I'm Rahul, a self-taught web developer with a passion for creating useful and be
 
 - **Frontend**: React, HTML, CSS, JavaScript, Tailwind CSS
 - **Backend**: Node.js, Express.js, MongoDB, PHP, MySQL
-- **Version Control**: Git
+- **Version Control**: Git 
 - **Other Tools**: VSCode, GitHub
 
 ### 📚 What I'm Learning
