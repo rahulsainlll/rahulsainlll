@@ -24,6 +24,3 @@ I'm currently focused on deepening my knowledge of React and exploring advanced 
 - Twitter: https://twitter.com/Rahulsainlll
 - Email: mr.rahulsain@icloud.com
 
-
-[![rahulsainlll's GitHub | Languages](https://stats.quine.sh/rahulsainlll/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=rahulsainlll)
-
