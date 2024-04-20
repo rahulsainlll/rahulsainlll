@@ -1,26 +1,30 @@
-## Hi there! 👋
+hi# Hello, I'm Rahul Sain! 👋
 
-I'm Rahul, a self-taught web developer with a passion for creating useful and beautiful websites. I love learning new skills and technologies, and I'm always looking for opportunities to grow and improve.
+I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love traveling, exploring new music, and driving to explore different places.
 
-### 🧠 What I Know and Use
+## 🛠️ Technologies & Tools
 
-- **Frontend**: React, HTML, CSS, JavaScript, Tailwind CSS, Typescript 
-- **Backend**: Node.js, Express.js, MongoDB, PHP, MySQL, Postgresql, Docker
-- **Version Control**: Git 
-- **Other Tools**: VSCode, GitHub
+- **Programming/Scripting Languages worked with:** Python, C++, JavaScript
+- **Frontend Development:** React.js, Next.js
+- **Backend Development:** Node.js, Express
+- **Mobile Development:**  React Native
+- **Databases:** Proficient with MongoDB and PostgreSQL
+- **DevOps Tools:** AWS, Docker, CI/CD pipelines, Nginx
+- **Version Control:** Git / GitHub 
+- **Backend Operations:** Proficient in developing complex APIs.
+- 
+## 🌱 Current Learning Goals
 
-### 📚 What I'm Learning
+- Master DevOps
+- Solve more DSA
 
-I'm currently focused on deepening my knowledge of React and exploring advanced topics in web development.
-
-### 🌍 When I'm Not Coding
+## 🌍 When I'm Not Coding
 
 - **Traveling**: Exploring new places and cultures.
 - **Cricket**: Enjoying the thrill of the game.
 - **Personal Projects**: Working on interesting side projects.
 
-### 📫 Get in Touch
+## 📫 Get in touch
 
 - Twitter: https://twitter.com/Rahulsainlll
 - Email: mr.rahulsain@icloud.com
-
