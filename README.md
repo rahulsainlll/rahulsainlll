@@ -12,7 +12,7 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 - **DevOps Tools:** AWS, Docker, CI/CD pipelines, Nginx
 - **Version Control:** Git / GitHub 
 - **Backend Operations:** Proficient in developing complex APIs.
-- 
+  
 ## 🌱 Current Learning Goals
 
 - Master DevOps
