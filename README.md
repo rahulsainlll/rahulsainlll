@@ -18,7 +18,7 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 - Master DevOps
 - Solve more DSA
 
-## 🌱 When I'm Not Coding
+## 🧑🏻‍🎨 When I'm Not Coding
 
 - **Traveling**: Exploring new places and cultures.
 - **Cricket**: Enjoying the thrill of the game.
