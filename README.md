@@ -24,7 +24,5 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 - **Cricket**: Enjoying the thrill of the game.
 - **Personal Projects**: Working on interesting side projects.
 
-## 📫 Get in touch
-
-- Twitter: https://twitter.com/Rahulsainlll
-- Email: mr.rahulsain@icloud.com
+## Lets Connect
+I'm excited to connect with others via [Email](mailto:mr.rahulsain@icloud.com) and [Twitter](https://twitter.com/Rahulsainlll) to chat about projects and ideas I'm taking on freelance projects and I am open to hearing about potential opportunities, discussing them with you and then potentially collaborating if it's a good fit.
