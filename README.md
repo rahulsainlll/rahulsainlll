@@ -1,4 +1,5 @@
 hi# Hello, I'm Rahul Sain! 👋
+![Visitor Count](https://profile-counter.glitch.me/rahulsainlll/count.svg)
 
 I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love traveling, exploring new music, and driving to explore different places.
 
