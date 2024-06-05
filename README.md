@@ -26,3 +26,5 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 
 ## 🐶 Lets Connect
 I'm excited to connect with others via [Email](mailto:mr.rahulsain@icloud.com) and [Twitter](https://twitter.com/Rahulsainlll) to chat about projects and ideas I'm taking on freelance projects and I am open to hearing about potential opportunities, discussing them with you and then potentially collaborating if it's a good fit.
+
+![Snake Commits](https://raw.githubusercontent.com/avalynndev/avalynndev/e7cc130b71cdb75f5598d2d6c3076f6aa0f2585b/github-contribution-grid-snake.svg)
